@@ -1,0 +1,17 @@
+{
+  "id":"./",
+  "name":"Gráficos por Computador · Tests GC",
+  "short_name":"Tests GC",
+  "description":"Prepara el primer parcial de Gráficos por Computador sin conexión",
+  "start_url":"./index.html",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f6f8fc",
+  "theme_color":"#101726",
+  "lang":"es-ES",
+  "orientation":"portrait-primary",
+  "icons":[
+    {"src":"icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
